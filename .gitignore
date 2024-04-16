@@ -6,6 +6,11 @@
 .pnp.js
 .yarn/install-state.gz
 .cash
+.cache
+input.json
+output.json
+images
+output_*
 
 
 # testing
